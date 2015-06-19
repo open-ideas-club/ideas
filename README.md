@@ -57,7 +57,7 @@ ID  | Idea | Description | Author | Implement
 
 ## 如何实现 idea
 
-在 [issues](https://github.com/open-ideas-club/ideas/issues) 中找到对应此 idea 的 issue，在评论中声明想做这个，队员有谁，仓库地址在哪儿（推荐创建到[Open Ideas Club](https://github.com/open-ideas-club)中），之后会在 Implement 中说明已经有队伍在做了。
+在 [issues](https://github.com/open-ideas-club/ideas/issues) 中找到对应此 idea 的 issue，在评论中声明想做这个，队员有谁，仓库地址在哪儿（推荐创建到 [Open Ideas Club](https://github.com/open-ideas-club) 中），之后会在 Implement 中说明已经有队伍在做了。
 
 ### 如何参与实现 idea
 
