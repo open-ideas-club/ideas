@@ -12,7 +12,7 @@ ID  | Idea | Description | Author | Implement
 10 | 随机图片服务 | 一个返回一定条件筛选之后的随机图片的服务 | [@xcatliu] | 
 9 | 中文图片描述生成器 | 类似于谷歌的 [A Neural Image Caption Generator](http://googleresearch.blogspot.co.uk/2014/11/a-picture-is-worth-thousand-coherent.html) 的中文图片描述生成器 | [@xcatliu] | 
 8 | 萌宠 API | 把萌宠的交互行为开放为 API，可以应用于其他场景，比如运动，签到 | [@xcatliu] | 
-7 | 萌宠背单词 | 通过完成背单词的任务，来养一只电子宠物 | [@xcatliu] | 
+7 | 萌宠背单词 | 通过完成每天背单词的任务，来养一只电子宠物，长时间不背单词，你的宠物就可怜的死掉了 T_T | [@xcatliu] | 
 6 | 挑战俄罗斯 | 以固定次序出现的俄罗斯方块玩法，灵感来源于[俄罗斯方块可以永无止境地玩下去吗？](http://www.matrix67.com/blog/archives/2134) | [@xcatliu] | 
 5 | GeoCN | 通过抓取高德数据，提供中国的 GeoJSON 和 TopoJSON 接口，供 D3.js 的开发者使用，可以精确到商圈，参考[这个](http://bl.ocks.org/mbostock/4060606) | [@xcatliu] | 
 4 | 彩虹旗 | 类似于 v2ex 风格的同性社区 | [@xcatliu] | 
