@@ -7,19 +7,19 @@ Open Ideas Club
 
 ## Ideas
 
-ID  | Idea | Description | Author | Implement 
---- | ---- | ----------- | ----------- | ---------
-10 | 随机图片服务 | 一个返回一定条件筛选之后的随机图片的服务 | [@xcatliu] | 竞品 [Unsplash It](https://unsplash.it/)
-9 | 中文图片描述生成器 | 类似于谷歌的 [A Neural Image Caption Generator](http://googleresearch.blogspot.co.uk/2014/11/a-picture-is-worth-thousand-coherent.html) 的中文图片描述生成器 | [@xcatliu] | 
-8 | 萌宠 API | 把萌宠的交互行为开放为 API，可以应用于其他场景，比如运动，签到 | [@xcatliu] | 
-7 | 萌宠背单词 | 通过完成每天背单词的任务，来养一只电子宠物，长时间不背单词，你的宠物就可怜的死掉了 T_T | [@xcatliu] | 
-6 | 挑战俄罗斯 | 以固定次序出现的俄罗斯方块玩法，灵感来源于[俄罗斯方块可以永无止境地玩下去吗？](http://www.matrix67.com/blog/archives/2134) | [@xcatliu] | 
-5 | GeoCN | 通过抓取高德数据，提供中国的 GeoJSON 和 TopoJSON 接口，供 D3.js 的开发者使用，可以精确到商圈，参考[这个](http://bl.ocks.org/mbostock/4060606) | [@xcatliu] | 
-4 | 彩虹旗 | 类似于 v2ex 风格的同性社区 | [@xcatliu] | 
-3 | 90后妈咪 | 专注于90后妈咪的微信公众号 | [@xcatliu] | 
-2 | xcatblog | 通过 React 实现一个同构博客应用 | [@xcatliu] | [xcatblog](https://github.com/xcatliu/xcatblog)
-1 | jekyllcn | jekyllrb 的中文翻译网站 | [@xcatliu] | [jekyllcn](https://github.com/xcatliu/jekyllcn)
-0 | V2HOT | 通过 React Native 实现 v2ex 的今日最热主题 | [@xcatliu] | [V2HOT](https://github.com/xcatliu/V2HOT)
+Idea | Description | Author | Implement 
+---- | ----------- | ----------- | ---------
+随机图片服务 | 一个返回一定条件筛选之后的随机图片的服务 | [@xcatliu] | [Unsplash It](https://unsplash.it/) (竞品)
+中文图片描述生成器 | 类似于谷歌的 [A Neural Image Caption Generator](http://googleresearch.blogspot.co.uk/2014/11/a-picture-is-worth-thousand-coherent.html) 的中文图片描述生成器 | [@xcatliu] | 
+萌宠 APK | 把萌宠的交互行为开放为 APK，可以应用于其他场景，比如运动，签到 | [@xcatliu] | 
+萌宠背单词 | 通过完成每天背单词的任务，来养一只电子宠物，长时间不背单词，你的宠物就可怜的死掉了 T_T | [@xcatliu] | 
+挑战俄罗斯 | 以固定次序出现的俄罗斯方块玩法，灵感来源于[俄罗斯方块可以永无止境地玩下去吗？](http://www.matrix67.com/blog/archives/2134) | [@xcatliu] | 
+GeoCN | 通过抓取高德数据，提供中国的 GeoJSON 和 TopoJSON 接口，供 D3.js 的开发者使用，可以精确到商圈，参考[这个](http://bl.ocks.org/mbostock/4060606) | [@xcatliu] | 
+彩虹旗 | 类似于 v2ex 风格的同性社区 | [@xcatliu] | 
+90后妈咪 | 专注于90后妈咪的微信公众号 | [@xcatliu] | 
+xcatblog | 通过 React 实现一个同构博客应用 | [@xcatliu] | [xcatblog](https://github.com/xcatliu/xcatblog)
+jekyllcn | jekyllrb 的中文翻译网站 | [@xcatliu] | [jekyllcn](https://github.com/xcatliu/jekyllcn)
+V2HOT | 通过 React Native 实现 v2ex 的今日最热主题 | [@xcatliu] | [V2HOT](https://github.com/xcatliu/V2HOT)
 
 ## 我们的价值观
 
