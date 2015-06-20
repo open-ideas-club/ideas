@@ -17,6 +17,11 @@ Idea | Description | Author | Implement
 GeoCN | 通过抓取高德数据，提供中国的 GeoJSON 和 TopoJSON 接口，供 D3.js 的开发者使用，可以精确到商圈，参考[这个](http://bl.ocks.org/mbostock/4060606) | [@xcatliu] | 
 彩虹旗 | 类似于 v2ex 风格的同性社区 | [@xcatliu] | 
 90后妈咪 | 专注于90后妈咪的微信公众号 | [@xcatliu] | 
+
+### 已实现的
+
+Idea | Description | Author | Implement 
+---- | ----------- | ----------- | ---------
 xcatblog | 通过 React 实现一个同构博客应用 | [@xcatliu] | [xcatblog](https://github.com/xcatliu/xcatblog)
 jekyllcn | jekyllrb 的中文翻译网站 | [@xcatliu] | [jekyllcn](https://github.com/xcatliu/jekyllcn)
 V2HOT | 通过 React Native 实现 v2ex 的今日最热主题 | [@xcatliu] | [V2HOT](https://github.com/xcatliu/V2HOT)
